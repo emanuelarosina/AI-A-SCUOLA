@@ -34,6 +34,7 @@ Ringrazio i creatori dei materiali didattici open source e le comunità di svilu
 
 ##Summary
 ## Riepilogo
-Il **Studio Smart** è un'applicazione mobile innovativa progettata per supportare gli studenti nell'ottimizzazione delle loro tecniche di studio attraverso l'uso dell'intelligenza artificiale. L'app offre suggerimenti personalizzati, strumenti per la pianificazione e risorse interattive, aiutando gli studenti a migliorare le loro abitudini di studio, aumentando la motivazione e l'engagement. Questo progetto non solo facilita l'apprendimento attivo, ma integra anche competenze digitali essenziali per il futuro degli studenti.
+Il **Studio Smart** è un'applicazione mobile innovativa progettata per supportare gli studenti nell'ottimizzazione delle loro tecniche di studio attraverso l'uso dell'intelligenza artificiale. L'app offre suggerimenti personalizzati, strumenti per la pianificazione e risorse interattive, aiutando gli studenti a migliorare le loro abitudini di studio, aumentando la motivazione e l'engagement. Questo progetto non solo facilita l'apprendimento attivo, ma integra anche competenze digitali essenziali per il futuro degli studenti. 
+Progetto del corso di creazione di intelligenza artificiale
 
 
