@@ -61,6 +61,7 @@ Grazie all'analisi delle preferenze e delle difficoltà di ciascun studente, l'a
 
 ## Prossimi Passi
 Il progetto ha il potenziale di crescere ulteriormente, integrando funzionalità come forum di discussione e gruppi di studio virtuali. Collaborare con esperti nel campo dell'educazione e con altre scuole potrebbe amplificare l'impatto dell'app, coinvolgendo un pubblico più ampio e diversificato.
+
 ## Summary
 ## Riepilogo
 Il **Studio Smart** è un'applicazione mobile innovativa progettata per supportare gli studenti nell'ottimizzazione delle loro tecniche di studio attraverso l'uso dell'intelligenza artificiale. L'app offre suggerimenti personalizzati, strumenti per la pianificazione e risorse interattive, aiutando gli studenti a migliorare le loro abitudini di studio, aumentando la motivazione e l'engagement. Questo progetto non solo facilita l'apprendimento attivo, ma integra anche competenze digitali essenziali per il futuro degli studenti.
